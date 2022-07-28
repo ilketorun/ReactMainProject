@@ -1,0 +1,3 @@
+[submodule "ReactSubmodule"]
+	path = ReactSubmodule
+	url = https://github.com/ilketorun/ReactSubmodule.git
